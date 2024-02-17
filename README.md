@@ -1,4 +1,4 @@
-# SISI Basic Technical Test
+# SISI Logic Technical Test
 
 ## Star Pyramid
 
